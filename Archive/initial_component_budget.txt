@@ -1,0 +1,11 @@
+Sonar sensor HC SR-04 : 150 TK
+L298N H-Bridge Dual Motor driver: 200 TK
+16*2 Serial LCD Module Display(With LCD adapter module) : 350 TK
+solar panel: 350
+Moto: 300*2 
+
+LEDs
+jumperwire male-to-male and male-female 
+potentiometer 10k or 50k or 100k
+lipo
+multimeter
