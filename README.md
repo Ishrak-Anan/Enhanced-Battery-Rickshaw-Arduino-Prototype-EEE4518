@@ -43,6 +43,21 @@ The objective was to demonstrate how embedded electronics, sensors, motor contro
 
 ---
 
+## My Contribution
+
+This project was developed collaboratively as part of our **EEE 4518 — Electrical and Electronic Workshop** coursework at the Islamic University of Technology (IUT).
+
+My contributions included:
+
+- **Component Research & Selection** — Researched and helped identify the components required for the proposed battery-rickshaw enhancement system.
+- **Component Procurement** — Participated in sourcing and purchasing the finalized hardware components for the prototype.
+- **Hardware Implementation** — Contributed directly to the physical implementation of the prototype, particularly **wiring and soldering**.
+- **Hardware Debugging & Troubleshooting** — Worked on identifying and resolving hardware-related issues during prototype development and testing.
+- **Presentation Development** — Prepared the complete project presentation, with support from a teammate.
+
+The project was a collaborative team effort, and the original repository is maintained by
+[Ar-Rafi-Ishraq](https://github.com/Ar-Rafi-Ishraq/Enhanced-Battery-Rickshaw-Arduino-Prototype-EEE4518).
+
 ## Hardware Prototype
 
 <p align="center">
